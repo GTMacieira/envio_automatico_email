@@ -24,7 +24,7 @@ Clone o repositório:
 
 bash
 Copy
-git clone https://github.com/seu-usuario/projeto-automacao-email.git
+git clone https:https://github.com/GTMacieira/envio_automatico_email
 cd projeto-automacao-email
 Crie e ative um ambiente virtual:
 
